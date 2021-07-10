@@ -45,7 +45,7 @@ adv.forEach(item => {
 genre.textContent = 'драма';
 
 
-// 3)s
+// 3)
 poster.style.backgroundImage = 'url("img/bg.jpg")';
 
 
